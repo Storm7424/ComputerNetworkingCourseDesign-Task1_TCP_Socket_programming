@@ -95,7 +95,7 @@ for i in range(N):
     try:
         size=blocks[i]
         data=content[curpos:curpos+size]
-        print(data)
+        # print(data)
         curpos+=size
         log(f"发送第{i+1}个reverseRequest报文，Type=3，长度为{size}，数据为{data}")
         sock.sendall(struct.pack("!hi", 3, size) + data.encode())
