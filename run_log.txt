@@ -1,0 +1,97 @@
+【2026-06-09 18:37:53.002391】Client-11896: 正在建立连接
+【2026-06-09 18:37:53.003054】Client-11896: 发送Initialization报文，Type=1，N=20
+【2026-06-09 18:37:53.003624】Server[('127.0.0.1', 12386)]: 接收Initialization报文，Type=1，N=20
+【2026-06-09 18:37:53.004084】Server[('127.0.0.1', 12386)]: 发送agree报文，Type=2
+【2026-06-09 18:37:53.004701】Client-11896: 接收agree报文，Type=2
+【2026-06-09 18:37:53.005350】Client-11896: 发送第1个reverseRequest报文，Type=3，长度为71，数据为Hello, I'm Xu Tao, from class Computer Science 24-1, student ID 2410027
+【2026-06-09 18:37:53.005901】Server[('127.0.0.1', 12386)]: 接收第1个reverseRequest报文，Type=3，长度为71，数据为Hello, I'm Xu Tao, from class Computer Science 24-1, student ID 2410027
+【2026-06-09 18:37:53.006505】Server[('127.0.0.1', 12386)]: 发送第1个reverseAnswer报文，Type=4，长度为71，数据为7200142 DI tneduts ,1-42 ecneicS retupmoC ssalc morf ,oaT uX m'I ,olleH
+【2026-06-09 18:37:53.007068】Client-11896: 接收第1个reverseAnswer报文，Type=4，长度为71，数据为7200142 DI tneduts ,1-42 ecneicS retupmoC ssalc morf ,oaT uX m'I ,olleH
+【2026-06-09 18:37:53.007699】Client-11896: 发送第2个reverseRequest报文，Type=3，长度为53，数据为15. Today I'm going to make a summary of the Academic
+【2026-06-09 18:37:53.008352】Server[('127.0.0.1', 12386)]: 接收第2个reverseRequest报文，Type=3，长度为53，数据为15. Today I'm going to make a summary of the Academic
+【2026-06-09 18:37:53.008811】Server[('127.0.0.1', 12386)]: 发送第2个reverseAnswer报文，Type=4，长度为53，数据为cimedacA eht fo yrammus a ekam ot gniog m'I yadoT .51
+【2026-06-09 18:37:53.009468】Client-11896: 接收第2个reverseAnswer报文，Type=4，长度为53，数据为cimedacA eht fo yrammus a ekam ot gniog m'I yadoT .51
+【2026-06-09 18:37:53.010092】Client-11896: 发送第3个reverseRequest报文，Type=3，长度为51，数据为 English I learnt this semester, and share my opini
+【2026-06-09 18:37:53.010667】Server[('127.0.0.1', 12386)]: 接收第3个reverseRequest报文，Type=3，长度为51，数据为 English I learnt this semester, and share my opini
+【2026-06-09 18:37:53.011130】Server[('127.0.0.1', 12386)]: 发送第3个reverseAnswer报文，Type=4，长度为51，数据为inipo ym erahs dna ,retsemes siht tnrael I hsilgnE 
+【2026-06-09 18:37:53.011686】Client-11896: 接收第3个reverseAnswer报文，Type=4，长度为51，数据为inipo ym erahs dna ,retsemes siht tnrael I hsilgnE 
+【2026-06-09 18:37:53.012291】Client-11896: 发送第4个reverseRequest报文，Type=3，长度为100，数据为on about artificial intelligence.
+Over the semester, I learnt five topics closely related to our dai
+【2026-06-09 18:37:53.012794】Server[('127.0.0.1', 12386)]: 接收第4个reverseRequest报文，Type=3，长度为100，数据为on about artificial intelligence.
+Over the semester, I learnt five topics closely related to our dai
+【2026-06-09 18:37:53.013269】Server[('127.0.0.1', 12386)]: 发送第4个reverseAnswer报文，Type=4，长度为100，数据为iad ruo ot detaler ylesolc scipot evif tnrael I ,retsemes eht revO
+.ecnegilletni laicifitra tuoba no
+【2026-06-09 18:37:53.013819】Client-11896: 接收第4个reverseAnswer报文，Type=4，长度为100，数据为iad ruo ot detaler ylesolc scipot evif tnrael I ,retsemes eht revO
+.ecnegilletni laicifitra tuoba no
+【2026-06-09 18:37:53.014528】Client-11896: 发送第5个reverseRequest报文，Type=3，长度为68，数据为ly life. First, by reading two articles which seem to be contrasting
+【2026-06-09 18:37:53.015039】Server[('127.0.0.1', 12386)]: 接收第5个reverseRequest报文，Type=3，长度为68，数据为ly life. First, by reading two articles which seem to be contrasting
+【2026-06-09 18:37:53.015496】Server[('127.0.0.1', 12386)]: 发送第5个reverseAnswer报文，Type=4，长度为68，数据为gnitsartnoc eb ot mees hcihw selcitra owt gnidaer yb ,tsriF .efil yl
+【2026-06-09 18:37:53.016000】Client-11896: 接收第5个reverseAnswer报文，Type=4，长度为68，数据为gnitsartnoc eb ot mees hcihw selcitra owt gnidaer yb ,tsriF .efil yl
+【2026-06-09 18:37:53.016516】Client-11896: 发送第6个reverseRequest报文，Type=3，长度为55，数据为, I examined the upsides and downsides of the social ne
+【2026-06-09 18:37:53.017199】Server[('127.0.0.1', 12386)]: 接收第6个reverseRequest报文，Type=3，长度为55，数据为, I examined the upsides and downsides of the social ne
+【2026-06-09 18:37:53.017731】Server[('127.0.0.1', 12386)]: 发送第6个reverseAnswer报文，Type=4，长度为55，数据为en laicos eht fo sedisnwod dna sedispu eht denimaxe I ,
+【2026-06-09 18:37:53.018288】Client-11896: 接收第6个reverseAnswer报文，Type=4，长度为55，数据为en laicos eht fo sedisnwod dna sedispu eht denimaxe I ,
+【2026-06-09 18:37:53.019043】Client-11896: 发送第7个reverseRequest报文，Type=3，长度为50，数据为twork. Second I studied medical care by learning a
+【2026-06-09 18:37:53.019654】Server[('127.0.0.1', 12386)]: 接收第7个reverseRequest报文，Type=3，长度为50，数据为twork. Second I studied medical care by learning a
+【2026-06-09 18:37:53.020083】Server[('127.0.0.1', 12386)]: 发送第7个reverseAnswer报文，Type=4，长度为50，数据为a gninrael yb erac lacidem deiduts I dnoceS .krowt
+【2026-06-09 18:37:53.020708】Client-11896: 接收第7个reverseAnswer报文，Type=4，长度为50，数据为a gninrael yb erac lacidem deiduts I dnoceS .krowt
+【2026-06-09 18:37:53.021305】Client-11896: 发送第8个reverseRequest报文，Type=3，长度为82，数据为bout positive effects of laughter and de-prescribing. Third I explored artificial 
+【2026-06-09 18:37:53.021930】Server[('127.0.0.1', 12386)]: 接收第8个reverseRequest报文，Type=3，长度为82，数据为bout positive effects of laughter and de-prescribing. Third I explored artificial 
+【2026-06-09 18:37:53.022371】Server[('127.0.0.1', 12386)]: 发送第8个reverseAnswer报文，Type=4，长度为82，数据为 laicifitra derolpxe I drihT .gnibircserp-ed dna rethgual fo stceffe evitisop tuob
+【2026-06-09 18:37:53.022940】Client-11896: 接收第8个reverseAnswer报文，Type=4，长度为82，数据为 laicifitra derolpxe I drihT .gnibircserp-ed dna rethgual fo stceffe evitisop tuob
+【2026-06-09 18:37:53.023544】Client-11896: 发送第9个reverseRequest报文，Type=3，长度为90，数据为intelligence, which is the most popular trend at present, reflecting the coexistence betwe
+【2026-06-09 18:37:53.024066】Server[('127.0.0.1', 12386)]: 接收第9个reverseRequest报文，Type=3，长度为90，数据为intelligence, which is the most popular trend at present, reflecting the coexistence betwe
+【2026-06-09 18:37:53.024511】Server[('127.0.0.1', 12386)]: 发送第9个reverseAnswer报文，Type=4，长度为90，数据为ewteb ecnetsixeoc eht gnitcelfer ,tneserp ta dnert ralupop tsom eht si hcihw ,ecnegilletni
+【2026-06-09 18:37:53.025048】Client-11896: 接收第9个reverseAnswer报文，Type=4，长度为90，数据为ewteb ecnetsixeoc eht gnitcelfer ,tneserp ta dnert ralupop tsom eht si hcihw ,ecnegilletni
+【2026-06-09 18:37:53.025710】Client-11896: 发送第10个reverseRequest报文，Type=3，长度为61，数据为en human and machine in the workforce and life. Fourth I lear
+【2026-06-09 18:37:53.026388】Server[('127.0.0.1', 12386)]: 接收第10个reverseRequest报文，Type=3，长度为61，数据为en human and machine in the workforce and life. Fourth I lear
+【2026-06-09 18:37:53.026896】Server[('127.0.0.1', 12386)]: 发送第10个reverseAnswer报文，Type=4，长度为61，数据为rael I htruoF .efil dna ecrofkrow eht ni enihcam dna namuh ne
+【2026-06-09 18:37:53.027579】Client-11896: 接收第10个reverseAnswer报文，Type=4，长度为61，数据为rael I htruoF .efil dna ecrofkrow eht ni enihcam dna namuh ne
+【2026-06-09 18:37:53.028205】Client-11896: 发送第11个reverseRequest报文，Type=3，长度为65，数据为nt about the great forces of nature, and reinforced the idea of p
+【2026-06-09 18:37:53.028737】Server[('127.0.0.1', 12386)]: 接收第11个reverseRequest报文，Type=3，长度为65，数据为nt about the great forces of nature, and reinforced the idea of p
+【2026-06-09 18:37:53.029217】Server[('127.0.0.1', 12386)]: 发送第11个reverseAnswer报文，Type=4，长度为65，数据为p fo aedi eht decrofnier dna ,erutan fo secrof taerg eht tuoba tn
+【2026-06-09 18:37:53.029801】Client-11896: 接收第11个reverseAnswer报文，Type=4，长度为65，数据为p fo aedi eht decrofnier dna ,erutan fo secrof taerg eht tuoba tn
+【2026-06-09 18:37:53.030471】Client-11896: 发送第12个reverseRequest报文，Type=3，长度为67，数据为rotecting environment because give the earth an inch and it will gi
+【2026-06-09 18:37:53.031074】Server[('127.0.0.1', 12386)]: 接收第12个reverseRequest报文，Type=3，长度为67，数据为rotecting environment because give the earth an inch and it will gi
+【2026-06-09 18:37:53.031610】Server[('127.0.0.1', 12386)]: 发送第12个reverseAnswer报文，Type=4，长度为67，数据为ig lliw ti dna hcni na htrae eht evig esuaceb tnemnorivne gnitcetor
+【2026-06-09 18:37:53.032266】Client-11896: 接收第12个reverseAnswer报文，Type=4，长度为67，数据为ig lliw ti dna hcni na htrae eht evig esuaceb tnemnorivne gnitcetor
+【2026-06-09 18:37:53.032928】Client-11896: 发送第13个reverseRequest报文，Type=3，长度为96，数据为ve us a mile. Finally I studied behavioral science and call in question the popular idea of gett
+【2026-06-09 18:37:53.033593】Server[('127.0.0.1', 12386)]: 接收第13个reverseRequest报文，Type=3，长度为96，数据为ve us a mile. Finally I studied behavioral science and call in question the popular idea of gett
+【2026-06-09 18:37:53.034195】Server[('127.0.0.1', 12386)]: 发送第13个reverseAnswer报文，Type=4，长度为96，数据为tteg fo aedi ralupop eht noitseuq ni llac dna ecneics laroivaheb deiduts I yllaniF .elim a su ev
+【2026-06-09 18:37:53.034806】Client-11896: 接收第13个reverseAnswer报文，Type=4，长度为96，数据为tteg fo aedi ralupop eht noitseuq ni llac dna ecneics laroivaheb deiduts I yllaniF .elim a su ev
+【2026-06-09 18:37:53.035524】Client-11896: 发送第14个reverseRequest报文，Type=3，长度为91，数据为ing on top of time.
+The theme I'm going to discuss is the unstoppable flow of artificial in
+【2026-06-09 18:37:53.036186】Server[('127.0.0.1', 12386)]: 接收第14个reverseRequest报文，Type=3，长度为91，数据为ing on top of time.
+The theme I'm going to discuss is the unstoppable flow of artificial in
+【2026-06-09 18:37:53.036666】Server[('127.0.0.1', 12386)]: 发送第14个reverseAnswer报文，Type=4，长度为91，数据为ni laicifitra fo wolf elbappotsnu eht si ssucsid ot gniog m'I emeht ehT
+.emit fo pot no gni
+【2026-06-09 18:37:53.037168】Client-11896: 接收第14个reverseAnswer报文，Type=4，长度为91，数据为ni laicifitra fo wolf elbappotsnu eht si ssucsid ot gniog m'I emeht ehT
+.emit fo pot no gni
+【2026-06-09 18:37:53.037753】Client-11896: 发送第15个reverseRequest报文，Type=3，长度为77，数据为telligence. In my study and coding process, AI has become a powerful tool whi
+【2026-06-09 18:37:53.038312】Server[('127.0.0.1', 12386)]: 接收第15个reverseRequest报文，Type=3，长度为77，数据为telligence. In my study and coding process, AI has become a powerful tool whi
+【2026-06-09 18:37:53.038752】Server[('127.0.0.1', 12386)]: 发送第15个reverseAnswer报文，Type=4，长度为77，数据为ihw loot lufrewop a emoceb sah IA ,ssecorp gnidoc dna yduts ym nI .ecnegillet
+【2026-06-09 18:37:53.039326】Client-11896: 接收第15个reverseAnswer报文，Type=4，长度为77，数据为ihw loot lufrewop a emoceb sah IA ,ssecorp gnidoc dna yduts ym nI .ecnegillet
+【2026-06-09 18:37:53.039872】Client-11896: 发送第16个reverseRequest报文，Type=3，长度为73，数据为ch I'm unwilling to part with for it helps us with exhausting work and we
+【2026-06-09 18:37:53.040426】Server[('127.0.0.1', 12386)]: 接收第16个reverseRequest报文，Type=3，长度为73，数据为ch I'm unwilling to part with for it helps us with exhausting work and we
+【2026-06-09 18:37:53.040972】Server[('127.0.0.1', 12386)]: 发送第16个reverseAnswer报文，Type=4，长度为73，数据为ew dna krow gnitsuahxe htiw su spleh ti rof htiw trap ot gnilliwnu m'I hc
+【2026-06-09 18:37:53.041609】Client-11896: 接收第16个reverseAnswer报文，Type=4，长度为73，数据为ew dna krow gnitsuahxe htiw su spleh ti rof htiw trap ot gnilliwnu m'I hc
+【2026-06-09 18:37:53.042304】Client-11896: 发送第17个reverseRequest报文，Type=3，长度为85，数据为 can concentrate on the most important things. However, given the limitation of techn
+【2026-06-09 18:37:53.042914】Server[('127.0.0.1', 12386)]: 接收第17个reverseRequest报文，Type=3，长度为85，数据为 can concentrate on the most important things. However, given the limitation of techn
+【2026-06-09 18:37:53.043362】Server[('127.0.0.1', 12386)]: 发送第17个reverseAnswer报文，Type=4，长度为85，数据为nhcet fo noitatimil eht nevig ,revewoH .sgniht tnatropmi tsom eht no etartnecnoc nac 
+【2026-06-09 18:37:53.043880】Client-11896: 接收第17个reverseAnswer报文，Type=4，长度为85，数据为nhcet fo noitatimil eht nevig ,revewoH .sgniht tnatropmi tsom eht no etartnecnoc nac 
+【2026-06-09 18:37:53.044387】Client-11896: 发送第18个reverseRequest报文，Type=3，长度为67，数据为ology, the work it can master is finite. What remains to be discuss
+【2026-06-09 18:37:53.044872】Server[('127.0.0.1', 12386)]: 接收第18个reverseRequest报文，Type=3，长度为67，数据为ology, the work it can master is finite. What remains to be discuss
+【2026-06-09 18:37:53.045297】Server[('127.0.0.1', 12386)]: 发送第18个reverseAnswer报文，Type=4，长度为67，数据为ssucsid eb ot sniamer tahW .etinif si retsam nac ti krow eht ,ygolo
+【2026-06-09 18:37:53.045785】Client-11896: 接收第18个reverseAnswer报文，Type=4，长度为67，数据为ssucsid eb ot sniamer tahW .etinif si retsam nac ti krow eht ,ygolo
+【2026-06-09 18:37:53.046407】Client-11896: 发送第19个reverseRequest报文，Type=3，长度为84，数据为 is whether AI can take place of humanity. Not yet, at least. To some extend I'm pes
+【2026-06-09 18:37:53.046948】Server[('127.0.0.1', 12386)]: 接收第19个reverseRequest报文，Type=3，长度为84，数据为 is whether AI can take place of humanity. Not yet, at least. To some extend I'm pes
+【2026-06-09 18:37:53.047457】Server[('127.0.0.1', 12386)]: 发送第19个reverseAnswer报文，Type=4，长度为84，数据为sep m'I dnetxe emos oT .tsael ta ,tey toN .ytinamuh fo ecalp ekat nac IA rehtehw si 
+【2026-06-09 18:37:53.047927】Client-11896: 接收第19个reverseAnswer报文，Type=4，长度为84，数据为sep m'I dnetxe emos oT .tsael ta ,tey toN .ytinamuh fo ecalp ekat nac IA rehtehw si 
+【2026-06-09 18:37:53.048545】Client-11896: 发送第20个reverseRequest报文，Type=3，长度为82，数据为simistic, so I reverse my opinion and let it go naturally. 
+That's all. Thank you.
+【2026-06-09 18:37:53.049010】Server[('127.0.0.1', 12386)]: 接收第20个reverseRequest报文，Type=3，长度为82，数据为simistic, so I reverse my opinion and let it go naturally. 
+That's all. Thank you.
+【2026-06-09 18:37:53.049429】Server[('127.0.0.1', 12386)]: 发送第20个reverseAnswer报文，Type=4，长度为82，数据为.uoy knahT .lla s'tahT
+ .yllarutan og ti tel dna noinipo ym esrever I os ,citsimis
+【2026-06-09 18:37:53.049898】Client-11896: 接收第20个reverseAnswer报文，Type=4，长度为82，数据为.uoy knahT .lla s'tahT
+ .yllarutan og ti tel dna noinipo ym esrever I os ,citsimis
