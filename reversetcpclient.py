@@ -132,4 +132,5 @@ try:
         output.write(reversedtext)
 except:
     print("写入文件失败")
+    sock.close()
     sys.exit(1)
